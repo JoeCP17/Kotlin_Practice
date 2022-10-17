@@ -1,11 +1,11 @@
-package com.web.hompage_practice
+package com.example.crud
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class HompagePracticeApplication
+class CrudApplication
 
 fun main(args: Array<String>) {
-    runApplication<HompagePracticeApplication>(*args)
+    runApplication<CrudApplication>(*args)
 }

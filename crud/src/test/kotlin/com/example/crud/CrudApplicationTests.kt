@@ -1,10 +1,10 @@
-package com.web.hompage_practice
+package com.example.crud
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class HompagePracticeApplicationTests {
+class CrudApplicationTests {
 
     @Test
     fun contextLoads() {
